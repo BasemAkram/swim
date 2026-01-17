@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#0096C7"               # الأزرار والروابط
+backgroundColor = "#90E0EF"            # خلفية الصفحة
+secondaryBackgroundColor = "#48CAE4"   # خلفية الصناديق والجداول
+textColor = "#023E8A"                  # لون النص
+font = "Arial, sans-serif"             # الخط المستخدم
